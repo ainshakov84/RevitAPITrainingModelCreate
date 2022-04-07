@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>			"D:\RevitApi\RevitAPITrainingModelCreate.dll"		</Assembly>
+		<AddInId>554901B8-638A-4582-8EDD-2E49201F6C83</AddInId>
+		<FullClassName>		RevitAPITrainingModelCreate.Main		</FullClassName>
+		<VendorId>			ADSK		</VendorId>
+		<Text>Создание модели здания	</Text>
+	</AddIn>
+</RevitAddIns>
